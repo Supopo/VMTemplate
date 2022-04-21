@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.supopo.vmtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.supopo.vmtemplate.MyBundle
 
 class MyApplicationService {
 
